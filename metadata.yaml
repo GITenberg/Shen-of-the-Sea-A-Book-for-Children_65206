@@ -5,12 +5,17 @@ contributor:
     agent_name: Hasselriis, Else
     gutenberg_agent_id: '53234'
     url: http://www.gutenberg.org/2009/agents/53234
+covers:
+- cover_type: archival
+  image_path: 65206-h/images/cover.jpg
 creator:
   author:
     agent_name: Chrisman, Arthur Bowie
     gutenberg_agent_id: '53233'
     url: http://www.gutenberg.org/2009/agents/53233
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65206#Shen-of-the-Sea-A-Book-for-Children
 gutenberg_issued: '2021-04-30'
 gutenberg_type: Text
 identifiers:
