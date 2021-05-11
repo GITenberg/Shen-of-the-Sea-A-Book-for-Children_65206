@@ -1,0 +1,27 @@
+_repo: Shen-of-the-Sea-A-Book-for-Children_65206
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hasselriis, Else
+    gutenberg_agent_id: '53234'
+    url: http://www.gutenberg.org/2009/agents/53234
+creator:
+  author:
+    agent_name: Chrisman, Arthur Bowie
+    gutenberg_agent_id: '53233'
+    url: http://www.gutenberg.org/2009/agents/53233
+description: ''
+gutenberg_issued: '2021-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Shen of the Sea
+
+  A Book for Children'
+url: http://www.gutenberg.org/ebooks/65206
